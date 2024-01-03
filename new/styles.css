@@ -125,6 +125,22 @@ a {
     display: block;
 }
 
+.future-changes {
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.future-changes h2{
+    text-align: center;
+    font-size: x-large;
+}
+
+.future-changes p {
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+}
+
 .gallery-section {
     text-align: center;
 }
