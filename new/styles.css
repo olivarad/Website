@@ -68,7 +68,7 @@ a {
 
 .welcome-section p {
     border-left: 2px solid;
-    border-image: linear-gradient(to bottom, rgb(216, 137, 162), rgb(216, 1, 73)); /* Adjust colors as needed */
+    border-image: linear-gradient(to bottom, rgb(216, 137, 162), rgb(216, 1, 73));
     border-image-slice: 1;
     padding-left: 10px;
 }
@@ -78,7 +78,7 @@ a {
     margin-left: 15px;
     max-width: 50%;
     border-left: 2px solid;
-    border-image: linear-gradient(to bottom, rgb(216, 137, 162), rgb(216, 1, 73)); /* Adjust colors as needed */
+    border-image: linear-gradient(to bottom, rgb(216, 137, 162), rgb(216, 1, 73));
     border-image-slice: 1;
     padding-left: 10px;
 }
