@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'GreatVibes';
-    src: url('fonts/GreatVibes-Regular.ttf') format('truetype');
+    font-family: 'Magnolia';
+    src: url('fonts/MagnoliaScript.otf') format('opentype');
 }
 
 body {
@@ -34,7 +34,7 @@ a {
 }
 
 .header-left h1 {
-    font-family: 'GreatVibes';
+    font-family: 'Magnolia';
     margin: 15px;
 }
 
