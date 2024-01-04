@@ -99,6 +99,7 @@ article > p {
     border-image: linear-gradient(to bottom, rgb(216, 137, 162), rgb(216, 1, 73));
     border-image-slice: 1;
     padding-left: 10px;
+    font-size: large;
 }
 
 .project-intro {
